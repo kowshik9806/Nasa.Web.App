@@ -22,7 +22,7 @@ public class Program
 
             httpClient.DefaultRequestHeaders.Add("ApiKey", "O7ef7LYc6WIqDzc5zwh1VH38l8eZZ6t0Bu1IDsVh");
 
-            HttpResponseMessage response = await httpClient.GetAsync("endpoint");
+            HttpResponseMessage response = await httpClient.GetAsync("mars-photos/api/v1/rovers/curiosity/photos?sol=1000&api_key=DEMO_KEY");
 
             if (response.IsSuccessStatusCode)
             {
