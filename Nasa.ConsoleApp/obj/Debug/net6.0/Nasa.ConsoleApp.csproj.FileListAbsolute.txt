@@ -1,0 +1,15 @@
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\bin\Debug\net6.0\Nasa.ConsoleApp.exe
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\bin\Debug\net6.0\Nasa.ConsoleApp.deps.json
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\bin\Debug\net6.0\Nasa.ConsoleApp.runtimeconfig.json
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\bin\Debug\net6.0\Nasa.ConsoleApp.dll
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\bin\Debug\net6.0\Nasa.ConsoleApp.pdb
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.AssemblyInfo.cs
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.dll
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\refint\Nasa.ConsoleApp.dll
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.pdb
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\Nasa.ConsoleApp.genruntimeconfig.cache
+C:\Users\vamsh\source\repos\Nasa.Web.App\Nasa.ConsoleApp\obj\Debug\net6.0\ref\Nasa.ConsoleApp.dll
